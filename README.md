@@ -1,10 +1,10 @@
 ## MyApplication
 
 ### App Description
-`TODO://` Add app description
+This app will allow you to change the text color, and you will also get to see a custom-made background, text color, and custom text in a label.
+
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://recordit.co/QnUIfjR86N.gif" width=200><br>
 
@@ -20,6 +20,6 @@
 - [ ] 3. User can tap on the background view to reset all views to default settings.
 - [ ] 4. User can update the label text with custom text entered into the text field.
    - [] a. User can enter text into a text field using the keyboard.
-   - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.
-   - [ ] c. If the text field is empty, update label with default text string.
-   - [ ] d. The keyboard is dismissed after the button has been tapped.
+    - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.
+     - [ ] c. If the text field is empty, update label with default text string.
+      - [ ] d. The keyboard is dismissed after the button has been tapped.
