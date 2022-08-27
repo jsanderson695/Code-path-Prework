@@ -22,4 +22,4 @@ This app will allow you to change the text color, and you will also get to see a
    - [ ] a. User can enter text into a text field using the keyboard.
     - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.
      - [ ] c. If the text field is empty, update label with default text string.
-      - [ ] d. The keyboard is dismissed after the button has been tapped.
+       - [ ] d. The keyboard is dismissed after the button has been tapped.
